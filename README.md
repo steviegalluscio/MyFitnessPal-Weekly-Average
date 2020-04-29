@@ -11,10 +11,10 @@ A bookmarklet to display a table of data from MyFitnessPal reports and calculate
 ## How to use
   1. Navigate to https://www.myfitnesspal.com/reports
   2. Choose report type
-  3. Choose reporing peroid
+  3. Choose reporting period
   4. Click bookmarklet
 
-Note: after changes to report type or peroid the bookmarklet must be clicked again to update table
+Note: after changes to report type or period the bookmarklet must be clicked again to update table
 
 ## How to install
   Simply add a page to your bookmark bar with the name as whatever you wish and set the url as:

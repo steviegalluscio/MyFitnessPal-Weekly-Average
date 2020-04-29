@@ -1,15 +1,10 @@
-# MyFitnessPal Weekly Average
+# MyFitnessPal Weekly Average :muscle:
 A bookmarklet to display a table of data from MyFitnessPal reports and calculate weekly averages.
-
+> ![](demo.gif) 
 ## Features
   * Displays data from report graph in html table (Date, Amount)
   * Calculates average for every 7 days of data
   * As an html table it can be copied and pasted to excel/google sheet
-
-
-## Demo 
-![](demo.gif)
-
 
 ## How to use
   1. Navigate to https://www.myfitnesspal.com/reports
@@ -18,7 +13,6 @@ A bookmarklet to display a table of data from MyFitnessPal reports and calculate
   4. Click bookmarklet
 
 Note: after changes to report type or peroid the bookmarklet must be clicked again to update table
-
 
 ## How to install
   Simply add a page to your bookmark bar with the name as whatever you wish and set the url as:

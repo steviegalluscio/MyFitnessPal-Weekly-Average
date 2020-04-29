@@ -1,6 +1,8 @@
 # MyFitnessPal Weekly Average :muscle:
 A bookmarklet to display a table of data from MyFitnessPal reports and calculate weekly averages.
-> ![](demo.gif) 
+
+<kbd>![demo](demo.gif) </kbd>
+
 ## Features
   * Displays data from report graph in html table (Date, Amount)
   * Calculates average for every 7 days of data
